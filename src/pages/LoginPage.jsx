@@ -31,7 +31,7 @@ export default function LoginPage() {
     <div style={{ minHeight:'100vh', display:'flex', overflow:'auto', fontFamily:'Sora,sans-serif' }}>
 
       {/* LEFT BRANDING PANEL */}
-      <div style={{ flex:'0 0 48%', background:'linear-gradient(160deg,#0F2117 0%,#1A3318 30%,#2D5A27 70%,#3A7A32 100%)', display:'flex', flexDirection:'column', justifyContent:'center', padding:'60px 56px', position:'relative', overflow:'hidden' }}>
+      <div style={{ flex:'0 0 48%', background:'linear-gradient(160deg,#0F2117 0%,#1A3318 30%,#2D5A27 70%,#3A7A32 100%)', display:'flex', flexDirection:'column', justifyContent:'center', padding:'80px 80px 100px 150px', position:'relative', overflow:'hidden' }}>
         <div style={{ position:'absolute', inset:0, backgroundImage:'radial-gradient(rgba(163,217,119,.06) 1px, transparent 1px)', backgroundSize:'36px 36px', pointerEvents:'none' }} />
         <div style={{ position:'absolute', width:380, height:380, borderRadius:'50%', background:'rgba(255,255,255,.03)', top:-100, right:-120, pointerEvents:'none' }} />
         <div style={{ position:'relative' }}>
